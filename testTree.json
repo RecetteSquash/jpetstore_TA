@@ -1,0 +1,14 @@
+{
+	"timestamp": "2019-01-29T14:31:36.616+0000",
+	"name": "tests",
+	"contents": [
+		{
+			"name": "test_KO.ta",
+			"contents": null
+		},
+		{
+			"name": "test_OK.ta",
+			"contents": null
+		}
+	]
+}
